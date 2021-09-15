@@ -3,7 +3,7 @@
 <img
      src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&size=45&height=80&lines=Muhammed+rizad."
             alt="Typing SVG"/>  
-# statistics
+<h3>info</h3>
 <br>
 
 <p align="center">

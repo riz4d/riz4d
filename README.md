@@ -3,7 +3,7 @@
 <img
      src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&size=45&height=80&lines=Muhammed+rizad."
             alt="Typing SVG"/>                      
-# My Social Profiles
+<h3>My Social Profiles</h3>
 <p>
 <a href="https://www.instagram.com/rizad__x96"><img alt="Instagram" src="https://img.shields.io/badge/rizad__x96-%2336465D.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/rizad_x96"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>

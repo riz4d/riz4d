@@ -2,7 +2,8 @@
  <h1> 
 <img
      src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&size=45&height=80&lines=Muhammed+rizad."
-            alt="Typing SVG"/>                      
+            alt="Typing SVG"/>  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>                    
 <h3>My Social Profiles</h3>
 <p>
 <a href="https://www.instagram.com/rizad__x96"><img alt="Instagram" src="https://img.shields.io/badge/rizad__x96-%2336465D.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>

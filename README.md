@@ -20,7 +20,5 @@
 # statistics
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=riz4d&theme=highcontrast" align="center">
-</p>
-
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=riz4d&theme=tokyonight)](https://github.com/riz4d)
+</p>

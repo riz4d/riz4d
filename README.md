@@ -19,4 +19,5 @@
 
 # statistics
 <br>
-[![riz4d GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Riz4d&theme=tokyonight)](https://git.io/praveenscience)
+
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)

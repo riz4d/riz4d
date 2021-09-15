@@ -2,11 +2,7 @@
  <h1> 
 <img
      src="https://readme-typing-svg.herokuapp.com?color=FF9700&size=45&height=80&lines=Muhammed+rizad."
-            alt="Typing SVG"/> 
-<img
-src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=32&center=true&multiline=true&height=70&lines=USA+newYork"/></h1>
- <div class="subheading mb-5"><br> <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rizadmuhammed@protonmail.com"><img alt="Mail.me" src="https://img.shields.io/badge/Mail.me-%23121011.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></div>
-                     
+            alt="Typing SVG"/>                      
 # My Social Profiles
 <p>
 <a href="https://www.instagram.com/rizad__x96"><img alt="Instagram" src="https://img.shields.io/badge/rizad__x96-%2336465D.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>

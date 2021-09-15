@@ -20,4 +20,4 @@
 # statistics
 <br>
 
-[![ GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riz4d&theme=tokyonight)](https://git.io/praveenscience)
+[![ GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riz4d&theme=tokyonight)](https://github.com/riz4d)

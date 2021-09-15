@@ -19,6 +19,5 @@
 
 # statistics
 <br>
-<p align="center">
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=riz4d&theme=tokyonight)](https://github.com/riz4d)
-</p>
+

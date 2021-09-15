@@ -22,3 +22,5 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=riz4d&theme=highcontrast" align="center">
 </p>
+
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)

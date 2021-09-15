@@ -1,7 +1,7 @@
 
  <h1> 
 <img
-     src="https://readme-typing-svg.herokuapp.com?color=FF9700&size=45&height=80&lines=Muhammed+rizad."
+     src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&size=45&height=80&lines=Muhammed+rizad."
             alt="Typing SVG"/>                      
 # My Social Profiles
 <p>

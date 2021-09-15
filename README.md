@@ -1,7 +1,7 @@
 
  <h1> 
 <img
-     src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&size=45&height=80&lines=里扎德·穆罕默德."
+     src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&size=45&height=80&lines=Молодший науковий співробітник з питань безпеки."
             alt="Typing SVG"/>  
 <h3>info</h3>
 <br>

@@ -5,7 +5,7 @@
             alt="Typing SVG"/> 
 </div>
 
-  ![Snake animation](https://github.com/riz4d/riz4d/blob/NzI2OTdhNjE2NA/NzI2OTdhNjE2NA.gif)
+  ![Snake animation](https://github.com/riz4d/riz4d/blob/NzI2OTdhNjE2NA/NzI2OTdhNjE2NA.svg)
 <div>
 <h3>info</h3>
 <br>

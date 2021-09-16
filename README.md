@@ -1,7 +1,7 @@
 <div>
  <h1> 
 <img
-     src="https://readme-typing-svg.herokuapp.com?lines=W3+4R3+3V3RY+WH3R3)](https://git.io/typing-svg."
+     src="https://readme-typing-svg.herokuapp.com?lines=W3+4R3+3V3RY+WH3R3)."
             alt="Typing SVG"/> 
   <br>
 <img align="center" alt="GIF" 

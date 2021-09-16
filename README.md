@@ -4,8 +4,6 @@
      src="https://readme-typing-svg.herokuapp.com?lines=W3+4R3+3V3RY+WH3R3:)"
             alt="Typing SVG"/> 
   <br>
-<img align="center" alt="GIF" 
-src="https://github.com/riz4d/riz4d/blob/NzI2OTdhNjE2NA/riz4d.gif?raw=true" width="500" height="320"/>
 </div>
 
   ![Snake animation](https://github.com/riz4d/riz4d/blob/NzI2OTdhNjE2NA/NzI2OTdhNjE2NA.svg)

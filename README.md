@@ -1,5 +1,5 @@
-<div>
- <h1> 
+<span style="font-size: 12px;"><p style="color:green;">┌─[root@r1z4d]─[~]                                                  
+<br>└──╼ 
 <img
      src="https://readme-typing-svg.herokuapp.com?lines=W3+4R3+3V3RY+WH3R3:)"
             alt="Typing SVG"/> 

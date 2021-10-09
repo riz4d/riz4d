@@ -6,9 +6,7 @@
 <h3>info</h3>
 <br>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riz4d"></img>
-</p>
+[![rizad's GitHub Stats Graph](https://github-readme-streak-stats.herokuapp.com/?user=riz4d)](https://github.com/riz4d)
 
 [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riz4d&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/riz4d)
 </div>

@@ -1,13 +1,8 @@
-<span style="font-size: 12px;"><p style="color:green;">┌─[root@r1z4d]─[~]                                                  
-<br>└──╼ 
 <img
-     src="https://readme-typing-svg.herokuapp.com?lines=W3+4R3+3V3RY+WH3R3:)"
+     src="https://readme-typing-svg.herokuapp.com?lines=Muhammed+rizad"
             alt="Typing SVG"/> 
   <br>
 </div>
-
-  ![Snake animation](https://github.com/riz4d/riz4d/blob/NzI2OTdhNjE2NA/NzI2OTdhNjE2NA.svg)
-<div>
 <h3>info</h3>
 <br>
 

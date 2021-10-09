@@ -2,6 +2,7 @@
      src="https://readme-typing-svg.herokuapp.com?lines=Muhammed+rizad"
             alt="Typing SVG"/> 
   <br>
+Noob developer
 </div>
 <h3>info</h3>
 <br>

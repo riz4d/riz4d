@@ -4,7 +4,7 @@
 <h3>Contact info</h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://telegram.me/rizad_x96)
-<h3>info</h3>
+<h3>Statistics</h3>
 <br>
 
 [![rizad's GitHub Stats Graph](https://github-readme-streak-stats.herokuapp.com/?user=riz4d)](https://github.com/riz4d)

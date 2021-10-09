@@ -1,7 +1,7 @@
 <img
      src="https://readme-typing-svg.herokuapp.com?lines=Muhammed+rizad"
             alt="Typing SVG"/> 
-  <br>
+<h3>Contact info</h3>
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://telegram.me/rizad_x96)
 </div>
 <h3>info</h3>

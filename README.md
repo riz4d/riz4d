@@ -13,6 +13,5 @@
 [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riz4d&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/riz4d)
 </div>
 
-<p align="center">
-<img align="center" alt="rizad's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riz4d&theme=tokyonight" />
-</p>
+[![rizad's GitHub Language Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=riz4d&theme=tokyonight)](https://github.com/riz4d)
+

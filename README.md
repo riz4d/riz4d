@@ -10,5 +10,9 @@
 [![rizad's GitHub Stats Graph](https://github-readme-streak-stats.herokuapp.com/?user=riz4d)](https://github.com/riz4d)
 
 [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riz4d&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/riz4d)
+<p>
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AbhijithNT&show_icons=true&theme=tokyonight&include_all_commits=true" />
+ <img width=41.6%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijithNT&layout=compact&theme=tokyonight" />
+</p>
 </div>
 

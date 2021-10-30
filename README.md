@@ -1,9 +1,17 @@
 <img
      src="https://readme-typing-svg.herokuapp.com?lines=Muhammed+rizad"
             alt="Typing SVG"/> 
-<h3>Contact info</h3>
+### &nbsp;Stacks
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
+![Postgresql](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)&nbsp;
 
-[![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://telegram.me/rizad_x96)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Kalilinux)&nbsp;
+
 <h3>Statistics</h3>
 <br>
 
@@ -12,3 +20,7 @@
 [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riz4d&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/riz4d)
 </div>
 
+
+<h3>Reach To Me</h3>
+
+[![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://telegram.me/rizad_x96)

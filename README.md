@@ -24,3 +24,5 @@
 <h3>Reach To Me</h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://telegram.me/rizad_x96)
+
+![Metrics](https://metrics.lecoq.io/riz4d?template=classic&pagespeed=1&pagespeed.url=rizad.ml&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FNew_York)

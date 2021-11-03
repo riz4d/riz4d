@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/riz4d?template=classic&pagespeed=1&pagespeed.url=rizad.ml&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FNew_York)
+![Metrics](https://metrics.lecoq.io/riz4d?template=classic&pagespeed=1&isocalendar=1&gists=1&isocalendar.duration=half-year&pagespeed.url=rizad.ml&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FNew_York)
 
 <img
      src="https://readme-typing-svg.herokuapp.com?lines=Muhammed+rizad"

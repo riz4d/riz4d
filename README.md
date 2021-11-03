@@ -1,18 +1,17 @@
 [![Metrics](https://metrics.lecoq.io/riz4d?template=classic&pagespeed=1&isocalendar=1&isocalendar.duration=half-year&pagespeed.url=rizad.ml&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FNew_York)](https://github.com/riz4d)
 
-<img
-     src="https://readme-typing-svg.herokuapp.com?lines=Muhammed+rizad"
-            alt="Typing SVG"/> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EF10&lines=Muhammed+Rizad)](https://github.com/riz4d)
+
 ### &nbsp;Stacks
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
-![Postgresql](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)&nbsp;
+[![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com/)&nbsp;
+[![Postgresql](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)](https://www.postgresql.org/)&nbsp;
+[![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)](https://www.mongodb.com/)&nbsp;
+[![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)](https://firebase.google.com/)&nbsp;
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://vscode.dev/)&nbsp;
 
 
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Kalilinux)&nbsp;
+[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Kalilinux)](https://www.kali.org)&nbsp;
 
 <h3>Statistics</h3>
 <br>

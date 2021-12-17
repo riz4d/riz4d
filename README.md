@@ -16,7 +16,7 @@
 <h3>Statistics</h3>
 <br>
 
-[![rizad's GitHub Stats Graph](https://github-readme-streak-stats.herokuapp.com/?user=riz4d)](https://github.com/riz4d)
+[![rizad's GitHub Stats Graph](https://github-readme-streak-stats.herokuapp.com/?user=riz4d&theme=dark)](https://github.com/riz4d)
 
 [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riz4d&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/riz4d)
 </div>

@@ -9,9 +9,12 @@
 [![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)](https://firebase.google.com/)&nbsp;
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://vscode.dev/)&nbsp;
+[![Android studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)](https://developer.android.com/studio)&nbsp;
 
 
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Kalilinux)](https://www.kali.org)&nbsp;
+[![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)](https://www.android.com)&nbsp;
+[![Ios](https://img.shields.io/badge/-Apple-333333?style=flat&logo=ios)](https://www.apple.com/)&nbsp;
 
 <h3>Statistics</h3>
 <br>

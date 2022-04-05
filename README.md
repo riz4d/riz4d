@@ -2,34 +2,12 @@
 <p><em>Security Researcher and Development and H4cker <img src="https://i.giphy.com/26BRIYJNRAreymGwE.gif" width="30"><br><br>
   “riz4d” is a new word made by remixing my name with numerics, and it means me. but you can just call me ‘rizad’
   </em></p>
-  <br><br><br><br>
+  <br>
 ### More about me...
-
-```go
-package main
-
-type Me struct {
-	Name         string
-		Pronouns    string
-			Status string
-				Development  string
-					}
-func main() {
-	me := &Me{
-			Name:         "Mohamed Rizad",
-					Pronouns:    "He/Him/His",
-							Status: "Learning",
-									Development:  "Open-source",
-																			},
-																				}
-																					_ = me
-																					}
-																					```
-																																									```
-																					
+<br><br>
+																			
 ![Metrics](https://metrics.lecoq.io/riz4d?template=classic&config.timezone=America%2FNew_York)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EF10&lines=Muhammed+Rizad)](https://github.com/riz4d)
 
 ### &nbsp;Stacks
 [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com/)&nbsp;

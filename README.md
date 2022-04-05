@@ -5,6 +5,8 @@
   <br>
 ### More about me...
 <br><br>
+
+![Metrics](https://readme-typing-svg.herokuapp.com?size=15&duration=500&color=F7EB11&multiline=true&height=310&lines=go;package+main;type+Me+struct+%7B;Name+string;Pronouns+string;Status+string;Development+string;%7D;me+%3A%3D+%26Me%7B;Name%3A+%22Mohamed+Rizad%22%2C;Pronouns%3A++++%22He%2FHim%2FHis%22%2C;Status%3A+%22Learning%22%2C;Development%3A++%22Open-source%22%2C;%7D%2C;%7D;_+%3D+me;%7D)
 																			
 ![Metrics](https://metrics.lecoq.io/riz4d?template=classic&config.timezone=America%2FNew_York)
 

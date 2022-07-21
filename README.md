@@ -1,7 +1,6 @@
 <h2> Hi 👋🏼, I'm Rizad!</h2>
 <p><em>Security Researcher and Development and H4cker <img src="https://i.giphy.com/26BRIYJNRAreymGwE.gif" width="30"><br><br>
-  “riz4d” is a ID made by mixing my name with numerics, and it means me. but you can just call me ‘rizad’
-  </em></p>
+   </em></p>
   <br>
 ## More about me...
 <br><br>
